@@ -48,8 +48,6 @@ Readings:
 
 Due: April 16th
 
-<a href="https://colab.research.google.com">Link to Colab Notebook</a>
-
 *** { @unit = "11th Apr", @title = "Applications of zero-sum games to ML and AI", @reading, @lecture, @foldout}
 
 Applications of zero-sum games in machine learning and AI: boosting, adversarial robustness, distributional robustness, fairness, GANs, Imitation learning, Reinforcement learning from human feedback, NPIV (causal machine learning).

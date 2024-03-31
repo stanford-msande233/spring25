@@ -44,7 +44,11 @@ Solving zero-sum games using no-regret dynamics.
 Readings:
 - [https://www.vsyrgkanis.com/6853sp19/lecture4.pdf](Lecture Notes)
 
-*** { @unit = "9th Apr", @title = "<a href="https://colab.research.google.com">Homework 1</a> (due 16th Apr)", @assignment}
+*** { @unit = "9th Apr", @title = "Homework 1</a> (due 16th Apr)", @assignment, @foldout}
+
+Due: April 16th
+
+<a href="https://colab.research.google.com">Link to Colab Notebook</a>
 
 *** { @unit = "11th Apr", @title = "Applications of zero-sum games to ML and AI", @reading, @lecture, @foldout}
 

@@ -79,7 +79,7 @@ textbooks:
 There are no formal pre-requisites for the class. The course will assume undegraduate level knowledge of probability, statistics, linear algebra, calculus (derivatives, integrals, partial derivatives). Some familiarity with game theoretic concepts will be helpful but not required.
 
 ## Course Format
-The course will consist of lectures and homework assignments. Lectures will be held in person and will not be recorded. The lectures will cover the foundations at the intersection of Game Theory, Data Science and AI. They will also provide an overview of applications of these foundations. Grading will be primarily based on the weekly homework assignments and secondarily on class participation. There will be a total of 7-8 homeworks, rolled out roughly on a weekly basis, that will involve primarily coding exercises and potentially some mathematical derivations.
+The course will consist of lectures and homework assignments. Lectures will be held in person and will not be recorded. The lectures will cover the foundations at the intersection of Game Theory, Data Science and AI. They will also provide an overview of applications of these foundations. Grading will be based on the weekly homework assignments. There will be a total of 7-8 homeworks, rolled out roughly on a weekly basis, that will involve primarily coding exercises and potentially some mathematical derivations.
 
  
 ## Grading
@@ -108,11 +108,9 @@ We encourage discussion of assignments with other classmates, but everybody must
 
 
 ### Computation
-Many of the problem sets will require you to be comfortable carrying out computations on data.  Note that the “official” course language will be python: this is what we use for our problem sets, in our lectures and discussion sections, and the language we support in office hours.
+Many of the problem sets will require you to be comfortable carrying out computations on data.  Note that the “official” course language will be python: this is what we use for our problem sets, in our lectures and discussion sections, and the language we support in office hours. We will provide template code for each assignment in python. The template code will have been tested on Google colab and this is the recommended mode of running your code.
 
-We will provide links to python on the website, as well as any datasets that are needed through the course of the quarter. You can find notebooks that will be used throughout the class in python and R in this github repo: [https://github.com/CausalAIBook/MetricsMLNotebooks](https://github.com/CausalAIBook/MetricsMLNotebooks).
-
-As noted above, you are welcome to work in pairs on any computational component in the class.  In addition, you are welcome to use another language (e.g., R) but note that the course staff is only responsible to provide technical support for python.  
+As noted above, you are welcome to work in pairs on any computational component in the class.
 
 **Late day policy**
 

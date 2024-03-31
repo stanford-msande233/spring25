@@ -32,7 +32,7 @@ github_info:
     username:          stanford-msande233/spring24                # Github location of the course
     branch:            master               # branch where github page is hosted - see settings
     website-repo:      spring24      # name of this current repo, contains course site files
-    course-repo:       spring24   # location of course content files like data, textbook, labs, etc.
+    course-repo:          # location of course content files like data, textbook, labs, etc.
 
 index:
     title: Game Theory, Data Science and AI 

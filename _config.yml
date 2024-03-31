@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Intro to Data Science
-description:        Website for the MS in Program Eval and Data Analytics Program, ASU
+title:              MS&E 233: Game Theory, Data Science and AI
+description:        Website for Stanford course on Game Theory, Data Science and AI
 
 # Site subpath, e.g. /blog
 baseurl:            "/spring24"

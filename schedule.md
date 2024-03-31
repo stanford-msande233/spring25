@@ -112,7 +112,7 @@ Basics (truthfulness, Vickrey auction) and applications (GSP, GFP, VCG etc). Spo
 
 ** Guest Lectures
 
-*** { @unit = "28th May", @title = "Mechanism Design for LLMs", @reading, @lecture, @foldout}
+*** { @unit = "28th May", @title = "Mechanism Design for LLMs (Renato Paes Leme, Google)", @reading, @lecture, @foldout}
 
 *** { @unit = "30th May", @title = "Autobidding and Sponsored Search", @reading, @lecture, @foldout}
 

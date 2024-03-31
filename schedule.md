@@ -28,14 +28,14 @@ Unit Metadata is comprised of:
 Basics of zero-sum games. Equilibrium strategies. Minimax theorem.
 
 Readings:
-- [https://www.vsyrgkanis.com/6853sp19/lec2.pdf](Lecture Notes)
+- (Lecture Notes)[https://www.vsyrgkanis.com/6853sp19/lec2.pdf]
 
 *** { @unit = "4th Apr", @title = "Online (no-regret) learning", @reading, @lecture, @foldout}
 
 Basics of online learning algorithms and theoretical foundations.
 
 Readings:
-- [https://www.vsyrgkanis.com/6853sp19/lecture3.pdf](Lecture Notes)
+- (Lecture Notes)[https://www.vsyrgkanis.com/6853sp19/lecture3.pdf]
 
 *** { @unit = "9th Apr", @title = "Homework 1 (due 16th Apr)", @assignment, @foldout}
 
@@ -46,7 +46,7 @@ Due: April 16th
 Solving zero-sum games using no-regret dynamics. 
 
 Readings:
-- [https://www.vsyrgkanis.com/6853sp19/lecture4.pdf](Lecture Notes)
+- (Lecture Notes)[https://www.vsyrgkanis.com/6853sp19/lecture4.pdf]
 
 
 *** { @unit = "11th Apr", @title = "Applications of zero-sum games to ML and AI", @reading, @lecture, @foldout}

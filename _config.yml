@@ -43,7 +43,7 @@ index:
 
 header:
 - title: Syllabus
-  url: /
+  url: 
   
 - title: Course Schedule
   url: schedule/
@@ -51,7 +51,7 @@ header:
 
 footer:
 - title: Home
-  url: /
+  url: 
 
 - title: Course Schedule
   url: /schedule/

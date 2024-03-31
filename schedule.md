@@ -21,7 +21,7 @@ Unit Metadata is comprised of:
 
 
 
-** Section-I Computational Game Theory with Applications to AI and ML
+** Computational Game Theory with Applications to AI and ML
 
 *** { @unit = "2nd Apr", @title = "Zero-Sum Games", @reading, @lecture, @foldout}
 
@@ -42,10 +42,10 @@ Equilibrium and minimax theorem.
 
 [https://colab.research.google.com]{@assignment}
 
-** Section-II Data Science for Mechanism Design
+** Data Science for Mechanism Design
 
-** Section-III Analyzing Data from Strategic Interactions
+** Analyzing Data from Strategic Interactions
 
-** Section-IV Experimentation and Incentives
+** Experimentation and Incentives
 
 

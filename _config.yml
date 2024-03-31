@@ -5,7 +5,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              MSANDE 233: Game Theory, Data Science and AI
+title:              MS&E 233. Game Theory, Data Science and AI
 description:        Website for Stanford course on Game Theory, Data Science and AI
 
 # Site subpath, e.g. /blog
@@ -20,7 +20,7 @@ url :               "https://stanford-msande233.github.io"
 # Site logo, image or text
 brand:
     image:          # logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
-    text:           MSANDE 233: Game Theory, Data Science and AI      # if the above "logo:" image variable  is not set, this text logo is displayed instead
+    text:           MS&E 233. Game Theory, Data Science and AI      # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 # Default author settings
 author:
@@ -64,7 +64,7 @@ info:
  program_title: Management Science and Engineering
  program_website: 
  course_title: Game Theory, Data Science and AI
- course_number: MSANDE 233
+ course_number: MS&E 233
  course_level: Graduate
  course_website: 
  course_start_end_dates: Apr 1st - Jun 5th, 2024

@@ -9,35 +9,35 @@ title:              Intro to Data Science
 description:        Website for the MS in Program Eval and Data Analytics Program, ASU
 
 # Site subpath, e.g. /blog
-baseurl:            "/course-template"
+baseurl:            "/spring24"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url :               "https://ds4ps.github.io"
+url :               "https://stanford-msande233.github.io"
 
 # Site logo, image or text
 brand:
     image:          # logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
-    text:           Intro to Data Science      # if the above "logo:" image variable  is not set, this text logo is displayed instead
+    text:           MS&E 233: Game Theory, Data Science and AI      # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 # Default author settings
 author:
-    name:       Jesse Lecy
-    github:     lecy   # Github username for avatar
+    name:       Vasilis Syrgkanis
+    github:     vsyrgkanis   # Github username for avatar
 
 
 github_info:
-    username:          ds4ps                # Github location of the course
+    username:          stanford-msande233/spring24                # Github location of the course
     branch:            master               # branch where github page is hosted - see settings
-    website-repo:      course-template      # name of this current repo, contains course site files
-    course-repo:       Data-Science-Class   # location of course content files like data, textbook, labs, etc.
+    website-repo:      spring24      # name of this current repo, contains course site files
+    course-repo:       spring24   # location of course content files like data, textbook, labs, etc.
 
 index:
-    title: Intro to Data Science for the Social Sector
+    title: Game Theory, Data Science and AI 
     image: imac.svg
-    subtitle: This course introduces students to the field of data science and its applications in the public sector. Modern performance management and evaluation processes require strong data literacy and the ability to combine and analyze data from a variety of sources to inform managerial processes. We offer a practical, tools-based approach that is designed to build strong foundations for people that want to work as policy analysts or data-driven managers. We will cover data programming fundamentals, visualization, text analysis, automated reporting, and dynamic reporting using dashboards. The course is analytically rigorous, but no prior programming experience is assumed.
+    subtitle: The course will explore applied topics at the intersection of game theory, data science and artificial intelligence.
     
 
 
@@ -48,80 +48,65 @@ header:
 - title: Course Schedule
   url: schedule/
 
-- title: Textbook
-  url: https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/index.html 
-
-- title: Datasets
-  url: datasets/
-
 - title: Resources
   url: resources/
-
-- title: Get Help
-  url: discussions/
 
 
 footer:
 - title: Home
   url: /
 
-- title: Datasets
-  url: /datasets/
-
-- title: Textbook
-  url:  https://bookdown.org/yihui/bookdown-demo/
-
 - title: Course Schedule
   url: /schedule/
 
 
 info: 
- program_title: MS in Program Evaluation and Data Analytics
+ program_title: Management Science and Engineering
  program_website: 
- course_title: Introduction to Data Science for the Social Sector
- course_number: CPP 591
+ course_title: Game Theory, Data Science and AI
+ course_number: MS&E 233
  course_level: Graduate
  course_website: 
- course_start_end_dates: Aug 16th - Dec 5th, 2018
+ course_start_end_dates: Apr 1st - Jun 5th, 2024
  course_prerequisites: None
- class_meets_when:  Online
- class_meets_where: Online
+ class_meets_when: Tue-Wed 3.00-4.20
+ class_meets_where: Shriram 104 
 
 instructor:
--  name: Jesse Lecy
-   title: Professor
-   email: jdlecy@asu.edu
-   website_url: http://www.lecy.info/
-   office_hours_times: Flexible, by appointment
-   office_hours_location:  UCENT 517
-   office_hours_app_url:  https://calendly.com/lecy/15min/
-   github_url: https://github.com/lecy
+-  name: Vasilis Syrgkanis
+   title: Assistant Professor
+   email: vsyrgk@stanford.edu
+   website_url: https://vsyrgkanis.com/
+   office_hours_times: 
+   office_hours_location: Huang 252
+   office_hours_app_url:  
+   github_url: 
    twitter_url: 
-   scholar_url: https://scholar.google.com/citations?user=Ir8H4wMAAAAJ&hl=en
+   scholar_url: 
    linked_in_url:
 
 
 
 textbooks:
-- title: R Cookbook. Proven recipes
-  authors: Paul Teetor
-  edition: Not Required
-  link: http://www.bagualu.net/wordpress/wp-content/uploads/2015/10/R_Cookbook.pdf
-  required (y/n): n
-- title: R for Data Science
-  authors: Wickham, H., & Grolemund, G.
+- title: Lecture Notes on Algorithmic Game Theory
+  authors: Tim Roughgarden
   edition: Free Online
-  link: http://r4ds.had.co.nz/
+  link: https://timroughgarden.org/f13/f13.pdf
   required (y/n): n
-- title: The Art of Data Science
-  authors: Peng, R. D., & Matsui, E.
+- title: AI, Games and Markets
+  authors: Christian Kroer
   edition: Free Online
-  link: https://www.amazon.com/Big-Book-Dashboards-Visualizing-Real-World/dp/1119282713/
+  link: https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf
   required (y/n): n
-- title: Big Book of Dashboards
-  authors: Smith, Smith, and Johnson
+- title: Algorithmic Game Theory
+  authors: Noam Nisan, Tim Roughgarden, Eva Tardos, Vijay Vazirani
+  edition: Free Online
+  link: https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf
+  required (y/n): n
+- title: Online Learning and Online Convex Optimization
+  authors: Shai Shalev-Shwartz
   edition: Not Required
-  link: https://www.amazon.com/Big-Book-Dashboards-Visualizing-Real-World/dp/1119282713/
+  link: https://www.cs.huji.ac.il/~shais/papers/OLsurvey.pdf
   required (y/n): n
 
 
@@ -130,24 +115,24 @@ textbooks:
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
     jesse:
-        name:       Jesse Lecy
-        github:     lecy    # Github username for avatar
+        name:       Vasilis Syrgkanis
+        github:     vsyrgkanis    # Github username for avatar
 
 # Social icons displayed in footer
 social:
     email:
     website:
-    facebook:       https://www.facebook.com/asupublicservice
+    facebook:       
     flickr:
     dribbble:
     github:
     googleplus:
-    instagram:      https://www.instagram.com/asupublicservice/
-    linkedin:       https://www.linkedin.com/school/asupublicservice/
+    instagram:      
+    linkedin:       
     pinterest:
-    twitter:        https://twitter.com/asupublicsvc
+    twitter:        
     vimeo:          
-    youtube:        https://www.youtube.com/user/coppvideos
+    youtube:        
 
 # Twitter share button
 twitter_username:
@@ -161,7 +146,7 @@ disqus:
     shortname:      1234
 
 # Google analytics code, get your code here https://www.google.com/analytics/
-google_analytics:   UA-123960540-1
+google_analytics:   G-L8SNR4LLEB
 
 # Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
 google_maps_api_key:
@@ -205,5 +190,5 @@ kramdown:
 
 
 
-course_url: "https://ds4ps.github.io/Data-Science-Class/"
+course_url: "https://stanford-msande233.github.io/spring24"
 

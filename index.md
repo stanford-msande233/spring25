@@ -5,9 +5,9 @@ title: Syllabus
 info: 
  program_title: 
  program_website: 
- course_title: Game Theory, Data Science and AI
- course_number: MS&E 233
- course_level: Graduate
+ course_title: MS&E 233. Game Theory, Data Science and AI
+ course_number: 
+ course_level:
  course_website: 
  course_start_end_dates: April 1st - June 5th, 2024
  course_prerequisites: None
@@ -74,15 +74,11 @@ textbooks:
 --- 
 
 
-# Course Format
-
-## Description
-The course will explore foundations and applied topics at the intersection of game theory, data science and artificial intelligence. The first part of the course will focus on computational approaches to solving complex games, with applications in developing successful algorithmic agents and explore recent successes in the games such as Go, Stratego and Poker. The lectures will provide the foundations of the methods that underlie these computational game theory methods (rooted in the theory of learning in games) and the assignments will explore implementation of simple variants. The second part of the course will explore the interplay between data science and mechanism design. We will overview topics such as optimizing auctions and mechanisms from data and explore applications in optimizing online auction markets. We will also overview methodologies for learning structural parameters in games and econometrics in games and how these can be used to analyze data that stem from strategic interactions, such as auction data. The third part of the course will explore topics that relate to deploying machine learning and data science pipelines in the presence of strategic behavior. Topics will include A/B testing in markets, with applications to A/B testing on digital platforms such as Uber, Amazon and other matching platforms.
 
 ## Prerequisites
 There are no formal pre-requisites for the class. The course will assume undegraduate level knowledge of probability, statistics, linear algebra, calculus (derivatives, integrals, partial derivatives). Some familiarity with game theoretic concepts will be helpful but not required.
 
-## Format
+## Course Format
 The course will consist of lectures and homework assignments. Lectures will be held in person and will not be recorded. The lectures will cover the foundations at the intersection of Game Theory, Data Science and AI. They will also provide an overview of applications of these foundations. Grading will be primarily based on the weekly homework assignments and secondarily on class participation. There will be a total of 7-8 homeworks, rolled out roughly on a weekly basis, that will involve primarily coding exercises and potentially some mathematical derivations.
 
  

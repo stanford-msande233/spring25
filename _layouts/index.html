@@ -33,8 +33,19 @@ layout: default
 
 <body>
 
+<div class="uk-section section-hero .uk-width-1-1">
+    <div class="uk-container uk-container-small">
+        {% if site.index.image %}
+        <p class="hero-image uk-text-center"><img src="{{ site.post_assets | absolute_url }}{{ site.index.image }}" alt="Hero"></p> 
+        {% endif %}
+        <h2 class="uk-heading-hero uk-text-center uk-margin-remove-top uk-margin-remove-bottom " >{{ site.index.title }}</h2>
+        
+         {% if site.index.subtitle %}<p class="subtitle uk-text-lead uk-text-center">{{ site.index.subtitle }}</p>
+            {% endif %}
+</div>
+</div>
 
-<br/>
+
 
 <article class="uk-article">
 

@@ -56,10 +56,10 @@
                     {% if link.title %}
                         
                    {% if link.url contains 'http' %} 
-                    <li{{ current }}><a href="{{ link.url }}" id="list"  target="_blank"; style="color: black;">{{ link.title }}</a> 
+                    <li{{ current }}><a href="{{ link.url }}" id="list"  target="_blank";>{{ link.title }}</a> 
                  </li>
                    {% else %} 
-                    <li{{ current }}><a href="{{ domain }}/{{ site.github_info.website-repo }}/{{ link.url }}" id="list" style="color: black;">{{ link.title }}</a> 
+                    <li{{ current }}><a href="{{ domain }}/{{ site.github_info.website-repo }}/{{ link.url }}" id="list">{{ link.title }}</a> 
                  </li>
                  {% endif %}
                     {% endif %}

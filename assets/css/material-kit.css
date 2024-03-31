@@ -410,7 +410,7 @@ a .material-icons, a:hover .material-icons, a:focus .material-icons {
 .btn.btn-success.btn-simple,
 .navbar .navbar-nav > li > a.btn.btn-success.btn-simple {
   background-color: transparent;
-  color: #8C1515;
+  color: #4caf50;
   box-shadow: none;
 }
 .btn.btn-success.btn-simple:hover, .btn.btn-success.btn-simple:focus, .btn.btn-success.btn-simple:active,
@@ -418,7 +418,7 @@ a .material-icons, a:hover .material-icons, a:focus .material-icons {
 .navbar .navbar-nav > li > a.btn.btn-success.btn-simple:focus,
 .navbar .navbar-nav > li > a.btn.btn-success.btn-simple:active {
   background-color: transparent;
-  color: #8C1515;
+  color: #4caf50;
 }
 .btn.btn-warning,
 .navbar .navbar-nav > li > a.btn.btn-warning {

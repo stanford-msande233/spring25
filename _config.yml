@@ -29,15 +29,15 @@ author:
 
 
 github_info:
-    username:          stanford-msande233/spring24                # Github location of the course
+    username:          stanford-msande233                # Github location of the course
     branch:            master               # branch where github page is hosted - see settings
     website-repo:      spring24      # name of this current repo, contains course site files
-    course-repo:          # location of course content files like data, textbook, labs, etc.
+    course-repo:       spring24      # location of course content files like data, textbook, labs, etc.
 
 index:
     title: Game Theory, Data Science and AI 
     image: 
-    subtitle: The course will explore applied topics at the intersection of game theory, data science and artificial intelligence.
+    subtitle: A course exploring foundations and applications at the intersection of game theory, data science and artificial intelligence.
     
 
 
@@ -58,10 +58,10 @@ footer:
 
 
 info: 
- program_title: Management Science and Engineering
+ program_title: 
  program_website: 
- course_title: Game Theory, Data Science and AI
- course_number: MS&E 233
+ course_title: MS&E 233. Game Theory, Data Science and AI
+ course_number: 
  course_level: Graduate
  course_website: 
  course_start_end_dates: Apr 1st - Jun 5th, 2024
@@ -136,11 +136,11 @@ twitter_username:
 
 # Default footer image settings
 footer:
-    copyright:      Made by a <a href="https://www.youtube.com/watch?v=WUAcN9UCnbU">human</a> somewhere on the planet earth.
+    copyright:
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
-    shortname:      1234
+    shortname:
 
 # Google analytics code, get your code here https://www.google.com/analytics/
 google_analytics:   G-L8SNR4LLEB

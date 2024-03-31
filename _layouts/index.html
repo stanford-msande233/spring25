@@ -33,20 +33,6 @@ layout: default
 
 <body>
 
-<div class="uk-section section-hero .uk-width-1-1"  data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; repeat: true">
-    <div class="uk-container uk-container-small">
-        {% if site.index.image %}
-        <p class="hero-image uk-text-center"><img src="{{ site.post_assets | absolute_url }}{{ site.index.image }}" alt="Hero"></p> 
-        {% endif %}
-        <h2 class="uk-heading-hero uk-text-center uk-margin-remove-top uk-margin-remove-bottom " >{{ site.index.title }}</h2>
-        
-         {% if site.index.subtitle %}<p class="subtitle uk-text-lead uk-text-center">{{ site.index.subtitle }}</p>
-            {% endif %}
-</div>
-</div>
-
-<br>
-<br>
 
 
 <article class="uk-article">
@@ -54,10 +40,6 @@ layout: default
 
 <div class="uk-section-muted uk-padding-large">
 <div class="uk-container uk-container-small">
-
-  
-<a class="uk-button uk-button-default" class="uk-align-center" onclick="onlyprint();">PRINT THE SYLLABUS</a>
-
 
 <h2></a> Course Info </h2> 
 
@@ -221,9 +203,6 @@ layout: default
 <td>{{item.name}}</td>
 <td>{{item.office_hours_times}}</td>
 <td>{{item.office_hours_location}}</td>
-<td>
-  <a class="uk-button uk-button-default uk-button-small" class="uk-align-center" onclick="location.href='{{ item.office_hours_app_url }}'" target="_blank">ONLINE OFFICE HOURS</a>
-  </td>
 <td>
 </td>
 </tr>

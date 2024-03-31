@@ -44,7 +44,7 @@ Solving zero-sum games using no-regret dynamics.
 Readings:
 - [https://www.vsyrgkanis.com/6853sp19/lecture4.pdf](Lecture Notes)
 
-*** { @unit = "9th Apr", @title = "Homework 1</a> (due 16th Apr)", @assignment, @foldout}
+*** { @unit = "9th Apr", @title = "Homework 1 (due 16th Apr)", @assignment, @foldout}
 
 Due: April 16th
 

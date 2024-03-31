@@ -37,9 +37,9 @@ instructor:
    twitter_url: 
    scholar_url: 
    linked_in_url:
--  name: Gordon Duncan Martinez-Piedra
+-  name: Gordon Martinez-Piedra
    title: CA, EE MS student
-   email: martingp@stanford.edu
+   email: martigp@stanford.edu
    website_url: 
    office_hours_times: 
    office_hours_location: 
@@ -120,7 +120,7 @@ Please note that we have provided the late day policy to help provide flexibilit
 
 ### Access and accommodations
 
-Stanford and our class are committed to providing equal educational opportunities for disabled students. Disabled students are a valued and essential part of the Stanford community. We welcome you to MS&E 228.
+Stanford and our class are committed to providing equal educational opportunities for disabled students. Disabled students are a valued and essential part of the Stanford community. We welcome you to MS&E 233.
 
 If you experience disability, please register with the Office of Accessible Education (OAE). Professional staff will evaluate your needs, support appropriate and reasonable accommodations, and prepare an Academic Accommodation Letter for faculty. To get started, or to re-initiate services, please visit [oae.stanford.edu](oae.stanford.edu).
 

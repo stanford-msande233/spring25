@@ -104,7 +104,7 @@
 {% if page.cta %}
 <div class="uk-section uk-text-center">
     <div class="uk-container" >
-        <div data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; repeat: true">
+        <div>
             <h3 style="font-family:courier;">{{ page.cta.title }}</h3>
             {% if page.cta.subtitle %}<p class="subtitle uk-text-lead uk-text-center">{{ page.cta.subtitle | escape }}</p>{% endif %} 
             <a class="uk-button uk-button-primary uk-button-large button-cta" href="{{ domain }}{{ page.cta.button_url }}">{{ page.cta.button_text }}</a>
@@ -154,14 +154,6 @@
               </table>
         </div>
       </div>
-       <div class="row">
-          <div class="col-lg-7 col-md-9 col-xs-9" style="color: transparent;">
-            Data Science
-          </div>
-          <div class="col-lg-5 col-md-3 col-xs-3" align="left" style="margin-left: 2em;">
-            {% include social-networks.html %}
-          </div>
-        </div>
     </div>
 </footer>   
 

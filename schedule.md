@@ -28,6 +28,7 @@ Unit Metadata is comprised of:
 Basics of zero-sum games. Equilibrium strategies. Minimax theorem.
 
 Readings:
+- [Chapters 1-2 of AI, Games and Markets](https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf)
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lec2.pdf)
 
 *** { @unit = "4th Apr", @title = "Online (no-regret) learning", @reading, @lecture, @foldout}

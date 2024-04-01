@@ -76,7 +76,7 @@ textbooks:
 
 
 ## Prerequisites
-There are no formal pre-requisites for the class. The course will assume undegraduate level knowledge of probability, statistics, linear algebra, calculus (derivatives, integrals, partial derivatives). The course will offer assume knowledge of basic Python programming (we will offer however one python tutorial session at the beginning of class). Some familiarity with game theoretic concepts will be helpful but not required.
+There are no formal pre-requisites for the class. The course will assume undegraduate level knowledge of probability, statistics, linear algebra, calculus (derivatives, integrals, partial derivatives). The course will also assume knowledge of basic Python programming (we will offer however one python tutorial session at the beginning of class). Some familiarity with game theoretic concepts will be helpful but not required.
 
 ## Course Format
 The course will consist of lectures and homework assignments. Lectures will be held in person and will not be recorded. The lectures will cover the foundations at the intersection of Game Theory, Data Science and AI. They will also provide an overview of applications of these foundations. Reading material for each lecture will vary and will either be in the form of lecture notes or book chapters or presentation slides. Grading will be based on the weekly homework assignments. There will be a total of 7-8 homeworks, rolled out roughly on a weekly basis, that will involve primarily coding exercises and potentially some mathematical derivations.

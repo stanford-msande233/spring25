@@ -3,8 +3,8 @@ layout: index
 title: Syllabus
 
 info: 
- program_title: 
- program_website: 
+ program_title: Management Science and Engineering, Stanford
+ program_website: https://msande.stanford.edu/
  course_title: MS&E 233. Game Theory, Data Science and AI
  course_number: 
  course_level:

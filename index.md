@@ -67,7 +67,7 @@ textbooks:
   required (y/n): n
 - title: Online Learning and Online Convex Optimization
   authors: Shai Shalev-Shwartz
-  edition: Not Required
+  edition: Free Online
   link: https://www.cs.huji.ac.il/~shais/papers/OLsurvey.pdf
   required (y/n): n
 

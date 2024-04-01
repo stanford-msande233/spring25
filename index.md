@@ -53,7 +53,7 @@ textbooks:
 - title: Lecture Notes on Algorithmic Game Theory
   authors: Tim Roughgarden
   edition: Free Online
-  link: https://timroughgarden.org/f13/f13.pdf
+  link: https://www.cambridge.org/core/books/twenty-lectures-on-algorithmic-game-theory/A9D9427C8F43E7DAEF8C702755B6D72B
   required (y/n): n
 - title: AI, Games and Markets
   authors: Christian Kroer

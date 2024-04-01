@@ -58,7 +58,7 @@ footer:
 
 
 info: 
- program_title: 
+ program_title: Management Science and Engineering, Stanford
  program_website: 
  course_title: MS&E 233. Game Theory, Data Science and AI
  course_number: 
@@ -102,7 +102,7 @@ textbooks:
   required (y/n): n
 - title: Online Learning and Online Convex Optimization
   authors: Shai Shalev-Shwartz
-  edition: Not Required
+  edition: Free Online
   link: https://www.cs.huji.ac.il/~shais/papers/OLsurvey.pdf
   required (y/n): n
 

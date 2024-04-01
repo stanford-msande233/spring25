@@ -69,14 +69,7 @@ layout: default
 {% if page.info.program_title %}
 <tr>
 <td>Program Title </td>
-  <td> <b>{{page.info.program_title}}</b> </td>
-</tr>
-{% endif %}
-
-{% if page.info.program_website %}
-<tr>
-<td>Program Webpage</td>
-<td><b> {{page.info.program_website}} </b></td>
+  <td> <a href="{{page.info.program_website}}"><b>{{page.info.program_title}}</b></a></td>
 </tr>
 {% endif %}
 

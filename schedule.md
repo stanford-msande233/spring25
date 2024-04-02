@@ -23,7 +23,7 @@ Unit Metadata is comprised of:
 
 ** Computational Game Theory with Applications to AI and ML
 
-*** { @unit = "2nd Apr", @title = "Zero-sum games", @reading, @lecture, @foldout}
+*** { @unit = "2nd Apr", @title = "Introduction to game theory", @reading, @lecture, @foldout}
 
 Introduction and logistics. Basics of game theory, equilibria, zero-sum games, Minimax theorem.
 

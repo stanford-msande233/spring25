@@ -25,7 +25,7 @@ Unit Metadata is comprised of:
 
 *** { @unit = "2nd Apr", @title = "Zero-sum games", @reading, @lecture, @foldout}
 
-Basics of zero-sum games. Equilibrium strategies. Minimax theorem.
+Introduction and logistics. Basics of game theory, equilibria, zero-sum games, Minimax theorem.
 
 Presentation: [Lecture 1](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture1.pdf)
 

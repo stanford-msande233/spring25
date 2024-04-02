@@ -112,6 +112,10 @@ Many of the problem sets will require you to be comfortable carrying out computa
 
 As noted above, you are welcome to work in pairs on any computational component in the class.
 
+### Generative AI
+
+You are allowed to use the default code auto-completion within the Google colab environment. You are not allowed to use other GenAI tools when preparing the homework.
+
 ### Late day policy
 
 To accommodate unforeseen challenges that may arise during the quarter, you have three late days for the problem sets.  Each late day allows you to turn in an assignment up to 24 hours late.  (Any fraction of a late day counts as one late day.)  You may use multiple late days on the same problem set. Work submitted beyond the allowed late days will not receive credit.

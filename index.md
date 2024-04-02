@@ -18,7 +18,7 @@ instructor:
 -  name: Vasilis Syrgkanis
    title: Assistant Professor, MS&E
    email: vsyrgk@stanford.edu
-   website_url: https://vsyrgkanis.com
+   webpage_url: https://vsyrgkanis.com
    office_hours_times: Friday 11.00am - 12.00pm
    office_hours_location:  Huang 252
    office_hours_app_url:  
@@ -29,7 +29,7 @@ instructor:
 -  name: Keertana Veeramony Chidambaram
    title: CA, MS&E PhD student
    email: vck@stanford.edu
-   website_url: 
+   webpage_url: 
    office_hours_times: Tuesday 12.45pm - 2.00pm
    office_hours_location:
    office_hours_app_url:  
@@ -40,7 +40,7 @@ instructor:
 -  name: Gordon Martinez-Piedra
    title: CA, EE MS student
    email: martigp@stanford.edu
-   website_url: 
+   webpage_url: 
    office_hours_times: Monday 12.45pm - 2.00pm
    office_hours_location: Huang Basement (Hybrid)
    office_hours_app_url:  https://stanford.zoom.us/meeting/tJ0odO2hqj0iHtblbL5Dtia8Rv7zupy3_53y/ics?icsToken=98tyKuChqzguE9CTuB2FRox5GYjCLPPwiCFHgrdfkB3JVgRHawKuBPQVKKdvCYvv

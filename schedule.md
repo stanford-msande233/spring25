@@ -37,7 +37,7 @@ Readings:
 
 Basics of online learning algorithms and theoretical foundations.
 
-Presentation: [Lecture 1](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture2.pdf)
+Presentation: [Lecture 2](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture2.pdf)
 
 Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture3.pdf)

@@ -37,8 +37,11 @@ Readings:
 
 Basics of online learning algorithms and theoretical foundations.
 
+Presentation: [Lecture 1](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture2.pdf)
+
 Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture3.pdf)
+- [Lecture Notes, First Half](https://www.vsyrgkanis.com/6853sp19/lecture4.pdf)
 
 *** { @unit = "9th Apr", @title = "Homework 1 (due 16th Apr)", @assignment, @foldout}
 

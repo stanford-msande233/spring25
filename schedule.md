@@ -43,6 +43,9 @@ Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture3.pdf)
 - [Lecture Notes, First Half](https://www.vsyrgkanis.com/6853sp19/lecture4.pdf)
 
+Further Reading
+- [Online Learning and Online Convex Optimization](https://www.cs.huji.ac.il/~shais/papers/OLsurvey.pdf)
+
 *** { @unit = "9th Apr", @title = "Homework 1 (due 16th Apr)", @assignment, @foldout}
 
 Due: April 16th

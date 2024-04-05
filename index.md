@@ -68,7 +68,7 @@ textbooks:
 - title: Online Learning and Online Convex Optimization
   authors: Shai Shalev-Shwartz
   edition: Free Online
-  link: https://www.cs.huji.ac.il/~shais/papers/OLsurvey.pdf
+  link: https://www.academia.edu/download/64680012/OLsurvey%20(1).pdf
   required (y/n): n
 
 --- 

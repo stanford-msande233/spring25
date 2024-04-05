@@ -44,7 +44,7 @@ Readings:
 - [Lecture Notes, First Half](https://www.vsyrgkanis.com/6853sp19/lecture4.pdf)
 
 Further Reading
-- [Online Learning and Online Convex Optimization](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=cbc4aa545290536e2a10726ed7d7673226ca00d9)
+- [Online Learning and Online Convex Optimization, Chapters 1-2](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=cbc4aa545290536e2a10726ed7d7673226ca00d9)
 
 *** { @unit = "9th Apr", @title = "Homework 1 (due 16th Apr)", @assignment, @foldout}
 

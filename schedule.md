@@ -46,7 +46,7 @@ Readings:
 Further Reading
 - [Online Learning and Online Convex Optimization, Chapters 1-2](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=cbc4aa545290536e2a10726ed7d7673226ca00d9)
 
-*** {@uint = "5th Apr", @title = "Python Tutorial", @lecture, @foldout}
+*** {@unit = "5th Apr", @title = "Python Tutorial", @lecture, @foldout}
 
 Presentation [Python Tutorial](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/PythonTutorial.pdf)
 

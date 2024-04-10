@@ -58,7 +58,7 @@ Due: April 16th
 
 Solving zero-sum games using no-regret dynamics. 
 
-Presentation: [Lecture 2](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture3.pdf)
+Presentation: [Lecture 3](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture3.pdf)
 
 Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture4.pdf)

@@ -74,7 +74,7 @@ Due: April 23rd
 
 *** { @unit = "16th Apr", @title = "Extensive-form games", @reading, @lecture, @foldout}
 
-Extensive form games of complete and incomplete information. Examples: alphaGo, Stratego, Poker.
+Extensive form games of complete and incomplete information.
 
 *** { @unit = "18th Apr", @title = "No-regret learning for extensive form games", @reading, @lecture, @foldout}
 

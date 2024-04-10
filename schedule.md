@@ -50,9 +50,8 @@ Further Reading
 
 Presentation [Python Tutorial](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/PythonTutorial.pdf)
 
-*** { @unit = "9th Apr", @title = "Homework 1 (due 16th Apr)", @assignment, @foldout}
+*** { @unit = "9th Apr", @title = "Homework 1 (due 16th Apr)", @assignment}
 
-Due: April 16th
 
 *** { @unit = "9th Apr", @title = "Lecture 3: Solving zero-sum games with no-regret", @reading, @lecture, @foldout}
 
@@ -68,7 +67,7 @@ Readings:
 
 Applications of zero-sum games in machine learning and AI: boosting, adversarial robustness, distributional robustness, fairness, GANs, Imitation learning, Reinforcement learning from human feedback, NPIV (causal machine learning).
 
-*** { @unit = "16th Apr", @title = "Homework 2 (due 23rd Apr)", @assignment, @foldout}
+*** { @unit = "16th Apr", @title = "Homework 2 (due 23rd Apr)", @assignment}
 
 Due: April 23rd
 
@@ -79,7 +78,7 @@ Extensive form games of complete and incomplete information.
 *** { @unit = "18th Apr", @title = "Lecture 6: No-regret learning for extensive form games", @reading, @lecture, @foldout}
 
 
-*** { @unit = "23rd Apr", @title = "Homework 3 (due 30th Apr)", @assignment, @foldout}
+*** { @unit = "23rd Apr", @title = "Homework 3 (due 30th Apr)", @assignment}
 
 Due: April 30th
 
@@ -91,7 +90,7 @@ Nash equilibrium. Existence. Hardness of equilibria. No-regret learning in gener
 
 Algorithms and applications
 
-*** { @unit = "30th Apr", @title = "Homework 4 (due 7th May)", @assignment, @foldout}
+*** { @unit = "30th Apr", @title = "Homework 4 (due 7th May)", @assignment}
 
 Due: May 7th
 
@@ -103,19 +102,19 @@ Basics (truthfulness, Vickrey auction) and applications (GSP, GFP, VCG etc). Spo
 
 *** { @unit = "2nd May", @title = "Lecture 10: Learning in auctions", @reading, @lecture, @foldout}
 
-*** { @unit = "7th May", @title = "Homework 5 (due 14th May)", @assignment, @foldout}
+*** { @unit = "7th May", @title = "Homework 5 (due 14th May)", @assignment}
 
 *** { @unit = "7th May", @title = "Lecture 11: Mechanism design", @reading, @lecture, @foldout}
 
 *** { @unit = "9th May", @title = "Lecture 12: Simple vs optimal mechanisms", @reading, @lecture, @foldout}
 
-*** { @unit = "14th May", @title = "Homework 6 (due 21st May)", @assignment, @foldout}
+*** { @unit = "14th May", @title = "Homework 6 (due 21st May)", @assignment}
 
 *** { @unit = "14th May", @title = "Lecture 13: Learning mechanisms from samples", @reading, @lecture, @foldout}
 
 *** { @unit = "16th May", @title = "Lecture 14: Online optimization of mechanisms", @reading, @lecture, @foldout}
 
-*** { @unit = "21st May", @title = "Homework 7 (due 28th May)", @assignment, @foldout}
+*** { @unit = "21st May", @title = "Homework 7 (due 28th May)", @assignment}
 
 ** Further Topics
 
@@ -123,7 +122,7 @@ Basics (truthfulness, Vickrey auction) and applications (GSP, GFP, VCG etc). Spo
 
 *** { @unit = "23rd May", @title = "Lecture 16: A/B testing in markets", @reading, @lecture, @foldout}
 
-*** { @unit = "28th May", @title = "Homework 8 (due 5th Jun)", @assignment, @foldout}
+*** { @unit = "28th May", @title = "Homework 8 (due 5th Jun)", @assignment}
 
 ** Guest Lectures
 

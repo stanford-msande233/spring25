@@ -67,6 +67,16 @@ Readings:
 
 Applications of zero-sum games in machine learning and AI: boosting, adversarial robustness, distributional robustness, fairness, GANs, Imitation learning, Reinforcement learning from human feedback, NPIV (causal machine learning).
 
+Readings:
+- [Game Theory, Online Prediction and Boosting](https://www.cs.cmu.edu/~ninamf/LGO10/wm-minimax.pdf)
+- [Tutorial on GANs, Especially Sections 3.2, 5.1, 8.2](https://arxiv.org/pdf/1701.00160.pdf)
+- [Robust Optimization for Non-Convex Objectives](https://arxiv.org/abs/1707.01047)
+- [Distributionally Robust Neural Networks](https://arxiv.org/abs/1911.08731)
+- [Adversarial Training for Causal ML](https://arxiv.org/abs/2006.07201)
+- [Zero-Sum Games for RLHF](https://arxiv.org/abs/2401.04056)
+- [Zero-Sum Games for Imitation Learning](https://proceedings.mlr.press/v139/swamy21a.html)
+- [Zero-Sum Games for Fair ML](https://arxiv.org/abs/1809.04198)
+
 *** { @unit = "16th Apr", @title = "Homework 2 (due 23rd Apr)", @assignment}
 
 Due: April 23rd

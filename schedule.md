@@ -85,13 +85,18 @@ Due: April 23rd
 
 *** { @unit = "16th Apr", @title = "Lecture 5: Extensive-form games", @reading, @lecture, @foldout}
 
+Extensive form games of complete and incomplete information.
+
 Readings:
 - [Chapter 8-9, AI, Games and Markets](https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf)
 
 Videos:
 - [Noam Brown, Superhuman AI for heads-up no-limit poker: Libratus beats top professionals](https://www.youtube.com/watch?v=2dX0lwaQRX0)
 
-Extensive form games of complete and incomplete information.
+Further Reading:
+- [Stratego AI](https://www.science.org/doi/10.1126/science.add4679)
+- [Poker AI](https://www.science.org/doi/10.1126/science.aao1733)
+- [Chess, Shogi and Go AI](https://www.science.org/doi/10.1126/science.aar6404)
 
 *** { @unit = "18th Apr", @title = "Lecture 6: No-regret learning for extensive form games", @reading, @lecture, @foldout}
 

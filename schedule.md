@@ -23,7 +23,7 @@ Unit Metadata is comprised of:
 
 ** Computational Game Theory with Applications to AI and ML
 
-*** { @unit = "2nd Apr", @title = "Introduction to game theory", @reading, @lecture, @foldout}
+*** { @unit = "2nd Apr", @title = "Lecture 1: Introduction to game theory", @reading, @lecture, @foldout}
 
 Introduction and logistics. Basics of game theory, equilibria, zero-sum games, Minimax theorem.
 
@@ -33,7 +33,7 @@ Readings:
 - [Chapters 1-2 of AI, Games and Markets](https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf)
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lec2.pdf)
 
-*** { @unit = "4th Apr", @title = "Online (no-regret) learning", @reading, @lecture, @foldout}
+*** { @unit = "4th Apr", @title = "Lecture 2: Online (no-regret) learning", @reading, @lecture, @foldout}
 
 Basics of online learning algorithms and theoretical foundations.
 
@@ -50,78 +50,100 @@ Further Reading
 
 Presentation [Python Tutorial](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/PythonTutorial.pdf)
 
-*** { @unit = "9th Apr", @title = "Homework 1 (due 16th Apr)", @assignment, @foldout}
+*** { @unit = "9th Apr", @title = "Homework 1 (due 16th Apr)", @assignment}
 
-Due: April 16th
 
-*** { @unit = "9th Apr", @title = "Solving zero-sum games with no-regret", @reading, @lecture, @foldout}
+*** { @unit = "9th Apr", @title = "Lecture 3: Solving zero-sum games with no-regret", @reading, @lecture, @foldout}
 
 Solving zero-sum games using no-regret dynamics. 
+
+Presentation: [Lecture 3](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture3.pdf)
 
 Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture4.pdf)
 
 
-*** { @unit = "11th Apr", @title = "Applications of zero-sum games to ML and AI", @reading, @lecture, @foldout}
+*** { @unit = "11th Apr", @title = "Lecture 4: Applications of zero-sum games to ML and AI", @reading, @lecture, @foldout}
 
 Applications of zero-sum games in machine learning and AI: boosting, adversarial robustness, distributional robustness, fairness, GANs, Imitation learning, Reinforcement learning from human feedback, NPIV (causal machine learning).
 
-*** { @unit = "16th Apr", @title = "Homework 2 (due 23rd Apr)", @assignment, @foldout}
+Presentation: [Lecture 4](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture4.pdf)
+
+Readings:
+- [Game Theory, Online Prediction and Boosting](https://www.cs.cmu.edu/~ninamf/LGO10/wm-minimax.pdf)
+- [Tutorial on GANs, Especially Sections 3.2, 5.1, 8.2](https://arxiv.org/pdf/1701.00160.pdf)
+- [Robust Optimization for Non-Convex Objectives](https://arxiv.org/abs/1707.01047)
+- [Distributionally Robust Neural Networks](https://arxiv.org/abs/1911.08731)
+- [Adversarial Training for Causal ML](https://arxiv.org/abs/2006.07201)
+- [Zero-Sum Games for RLHF](https://arxiv.org/abs/2401.04056)
+- [Zero-Sum Games for Imitation Learning](https://proceedings.mlr.press/v139/swamy21a.html)
+- [Zero-Sum Games for Fair ML](https://arxiv.org/abs/1809.04198)
+
+*** { @unit = "16th Apr", @title = "Homework 2 (due 23rd Apr)", @assignment}
 
 Due: April 23rd
 
-*** { @unit = "16th Apr", @title = "Extensive-form games", @reading, @lecture, @foldout}
+*** { @unit = "16th Apr", @title = "Lecture 5: Extensive-form games", @reading, @lecture, @foldout}
 
-Extensive form games of complete and incomplete information. Examples: alphaGo, Stratego, Poker.
+Readings:
+- [Chapter 8-9, AI, Games and Markets](https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf)
 
-*** { @unit = "18th Apr", @title = "No-regret learning for extensive form games", @reading, @lecture, @foldout}
+Videos:
+- [Noam Brown, Superhuman AI for heads-up no-limit poker: Libratus beats top professionals](https://www.youtube.com/watch?v=2dX0lwaQRX0)
+
+Extensive form games of complete and incomplete information.
+
+*** { @unit = "18th Apr", @title = "Lecture 6: No-regret learning for extensive form games", @reading, @lecture, @foldout}
+
+Readings:
+- [Chapter 8-9, AI, Games and Markets](https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf)
 
 
-*** { @unit = "23rd Apr", @title = "Homework 3 (due 30th Apr)", @assignment, @foldout}
+*** { @unit = "23rd Apr", @title = "Homework 3 (due 30th Apr)", @assignment}
 
 Due: April 30th
 
-*** { @unit = "23rd Apr", @title = "General games", @reading, @lecture, @foldout}
+*** { @unit = "23rd Apr", @title = "Lecture 7: General games", @reading, @lecture, @foldout}
 
 Nash equilibrium. Existence. Hardness of equilibria. No-regret learning in general games and coarse correlated equilibria. No-swap regret and correlated equilibria. Reduction from no-regret to no-swap regret.
 
-*** { @unit = "25th Apr", @title = "Multiagent reinforcement learning", @reading, @lecture, @foldout}
+*** { @unit = "25th Apr", @title = "Lecture 8: Multiagent reinforcement learning", @reading, @lecture, @foldout}
 
 Algorithms and applications
 
-*** { @unit = "30th Apr", @title = "Homework 4 (due 7th May)", @assignment, @foldout}
+*** { @unit = "30th Apr", @title = "Homework 4 (due 7th May)", @assignment}
 
 Due: May 7th
 
 ** Data Science for Auctions and Mechanisms
 
-*** { @unit = "30th Apr", @title = "Auctions and mechanisms", @reading, @lecture, @foldout}
+*** { @unit = "30th Apr", @title = "Lecture 9: Auctions and mechanisms", @reading, @lecture, @foldout}
 
 Basics (truthfulness, Vickrey auction) and applications (GSP, GFP, VCG etc). Sponsored search. Procurement auctions (oil lease, government procurement, energy grid). Budgets.
 
-*** { @unit = "2nd May", @title = "Learning in auctions", @reading, @lecture, @foldout}
+*** { @unit = "2nd May", @title = "Lecture 10: Learning in auctions", @reading, @lecture, @foldout}
 
-*** { @unit = "7th May", @title = "Homework 5 (due 14th May)", @assignment, @foldout}
+*** { @unit = "7th May", @title = "Homework 5 (due 14th May)", @assignment}
 
-*** { @unit = "7th May", @title = "Mechanism design", @reading, @lecture, @foldout}
+*** { @unit = "7th May", @title = "Lecture 11: Mechanism design", @reading, @lecture, @foldout}
 
-*** { @unit = "9th May", @title = "Simple vs optimal mechanisms", @reading, @lecture, @foldout}
+*** { @unit = "9th May", @title = "Lecture 12: Simple vs optimal mechanisms", @reading, @lecture, @foldout}
 
-*** { @unit = "14th May", @title = "Homework 6 (due 21st May)", @assignment, @foldout}
+*** { @unit = "14th May", @title = "Homework 6 (due 21st May)", @assignment}
 
-*** { @unit = "14th May", @title = "Learning mechanisms from samples", @reading, @lecture, @foldout}
+*** { @unit = "14th May", @title = "Lecture 13: Learning mechanisms from samples", @reading, @lecture, @foldout}
 
-*** { @unit = "16th May", @title = "Online optimization of mechanisms", @reading, @lecture, @foldout}
+*** { @unit = "16th May", @title = "Lecture 14: Online optimization of mechanisms", @reading, @lecture, @foldout}
 
-*** { @unit = "21st May", @title = "Homework 7 (due 28th May)", @assignment, @foldout}
+*** { @unit = "21st May", @title = "Homework 7 (due 28th May)", @assignment}
 
 ** Further Topics
 
-*** { @unit = "21st May", @title = "Econometrics in games and auctions", @reading, @lecture, @foldout}
+*** { @unit = "21st May", @title = "Lecture 15: Econometrics in games and auctions", @reading, @lecture, @foldout}
 
-*** { @unit = "23rd May", @title = "A/B testing in markets", @reading, @lecture, @foldout}
+*** { @unit = "23rd May", @title = "Lecture 16: A/B testing in markets", @reading, @lecture, @foldout}
 
-*** { @unit = "28th May", @title = "Homework 8 (due 5th Jun)", @assignment, @foldout}
+*** { @unit = "28th May", @title = "Homework 8 (due 5th Jun)", @assignment}
 
 ** Guest Lectures
 

@@ -43,7 +43,7 @@ instructor:
    website_url: 
    office_hours_times: Tuesday 12.45pm - 2.45pm
    office_hours_location: Huang Basement (Hybrid)
-   office_hours_app_url:  https://stanford.zoom.us/meeting/tJ0odO2hqj0iHtblbL5Dtia8Rv7zupy3_53y/ics?icsToken=98tyKuChqzguE9CTuB2FRox5GYjCLPPwiCFHgrdfkB3JVgRHawKuBPQVKKdvCYvv
+   office_hours_app_link:  https://stanford.zoom.us/meeting/tJ0odO2hqj0iHtblbL5Dtia8Rv7zupy3_53y/ics?icsToken=98tyKuChqzguE9CTuB2FRox5GYjCLPPwiCFHgrdfkB3JVgRHawKuBPQVKKdvCYvv
    github_url: 
    twitter_url: 
    scholar_url: 

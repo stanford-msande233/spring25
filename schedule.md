@@ -85,6 +85,9 @@ Due: April 23rd
 
 *** { @unit = "16th Apr", @title = "Lecture 5: Extensive-form games", @reading, @lecture, @foldout}
 
+Readings:
+- [Chapter 8, AI, Games and Markets](https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf)
+
 Extensive form games of complete and incomplete information.
 
 *** { @unit = "18th Apr", @title = "Lecture 6: No-regret learning for extensive form games", @reading, @lecture, @foldout}

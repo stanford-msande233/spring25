@@ -86,11 +86,17 @@ Due: April 23rd
 *** { @unit = "16th Apr", @title = "Lecture 5: Extensive-form games", @reading, @lecture, @foldout}
 
 Readings:
-- [Chapter 8, AI, Games and Markets](https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf)
+- [Chapter 8-9, AI, Games and Markets](https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf)
+
+Videos:
+- [Noam Brown, Superhuman AI for heads-up no-limit poker: Libratus beats top professionals](https://www.youtube.com/watch?v=2dX0lwaQRX0)
 
 Extensive form games of complete and incomplete information.
 
 *** { @unit = "18th Apr", @title = "Lecture 6: No-regret learning for extensive form games", @reading, @lecture, @foldout}
+
+Readings:
+- [Chapter 8-9, AI, Games and Markets](https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf)
 
 
 *** { @unit = "23rd Apr", @title = "Homework 3 (due 30th Apr)", @assignment}

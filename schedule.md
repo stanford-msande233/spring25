@@ -87,6 +87,8 @@ Due: April 23rd
 
 Extensive form games of complete and incomplete information.
 
+Presentation: [Lecture 5](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture5.pdf)
+
 Readings:
 - [Chapter 8-9, AI, Games and Markets](https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf)
 
@@ -97,6 +99,7 @@ Further Reading:
 - [Stratego AI](https://www.science.org/doi/10.1126/science.add4679)
 - [Poker AI](https://www.science.org/doi/10.1126/science.aao1733)
 - [Chess, Shogi and Go AI](https://www.science.org/doi/10.1126/science.aar6404)
+- [Optimistic FTRL for Extensive Games](https://arxiv.org/pdf/1910.10906.pdf)
 
 *** { @unit = "18th Apr", @title = "Lecture 6: Search in extensive form games", @reading, @lecture, @foldout}
 

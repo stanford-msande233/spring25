@@ -106,6 +106,14 @@ Further Reading:
 Readings:
 - [Chapter 8-9, AI, Games and Markets](https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf)
 
+Videos:
+- [Noam Brown, Superhuman AI for heads-up no-limit poker: Libratus beats top professionals](https://www.youtube.com/watch?v=2dX0lwaQRX0)
+
+Further Reading
+- [Chapter 5, AI, Games and Markets](https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf)
+
+Further Videos:
+- [Noam Brown, Deep Learning and Search for Imperfect Information Games](https://www.youtube.com/watch?v=mCldyXOYNok)
 
 *** { @unit = "23rd Apr", @title = "Homework 3 (due 30th Apr)", @assignment}
 

@@ -103,7 +103,7 @@ Further Reading:
 
 *** { @unit = "18th Apr", @title = "Lecture 6: No-regret learning for extensive form games", @reading, @lecture, @foldout}
 
-Presentation: [Lecture 5](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture6.pdf)
+Presentation: [Lecture 6](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture6.pdf)
 
 Readings:
 - [Chapter 8-9, AI, Games and Markets](https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf)
@@ -123,7 +123,7 @@ Due: April 30th
 
 *** { @unit = "23rd Apr", @title = "Lecture 7: General games", @reading, @lecture, @foldout}
 
-Nash equilibrium. Existence. Hardness of equilibria. No-regret learning in general games and coarse correlated equilibria. No-swap regret and correlated equilibria. Reduction from no-regret to no-swap regret.
+No-regret learning in general games and coarse correlated equilibria. No-swap regret and correlated equilibria. Reduction from no-regret to no-swap regret.
 
 *** { @unit = "25th Apr", @title = "Lecture 8: Multiagent reinforcement learning", @reading, @lecture, @foldout}
 

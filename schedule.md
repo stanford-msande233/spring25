@@ -113,6 +113,7 @@ Videos:
 
 Further Reading
 - [Chapter 5, AI, Games and Markets](https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf)
+- [Lectures 11-15, CMU Computational Game Solving Course](https://www.cs.cmu.edu/~sandholm/cs15-888F21/)
 
 Further Videos:
 - [Noam Brown, Deep Learning and Search for Imperfect Information Games](https://www.youtube.com/watch?v=mCldyXOYNok)

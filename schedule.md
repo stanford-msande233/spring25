@@ -126,9 +126,19 @@ Due: April 30th
 
 No-regret learning in general games and coarse correlated equilibria. No-swap regret and correlated equilibria. Reduction from no-regret to no-swap regret.
 
+Readings:
+- [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture06.pdf)
+
+Further Readings:
+- [Quality of Learning Outcomes Lecture Note](https://vsyrgkanis.com/lecture_notes/lecture08.pdf)
+
 *** { @unit = "25th Apr", @title = "Lecture 8: Multiagent reinforcement learning", @reading, @lecture, @foldout}
 
 Algorithms and applications
+
+Readings:
+- [Noah Golowich, Lecture Notes on Stochastic Games, Part I](https://www.mit.edu/~gfarina/6S890/lecture11.pdf)
+- [Grandmaster Level AI Agent for Starcraft](https://www.nature.com/articles/s41586-019-1724-z)
 
 *** { @unit = "30th Apr", @title = "Homework 4 (due 7th May)", @assignment}
 

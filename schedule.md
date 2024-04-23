@@ -126,6 +126,8 @@ Due: April 30th
 
 No-regret learning in general games and coarse correlated equilibria. No-swap regret and correlated equilibria. 
 
+Presentation: [Lecture 7](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture7.pdf)
+
 Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture06.pdf)
 

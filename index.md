@@ -85,6 +85,7 @@ The course will consist of lectures and homework assignments. Lectures will be h
 ## Grading
 
 * Homework 100%
+* Bonus: extra 10% of your homework points for class participation (participation in at least 90% of in class polls)
 
 ## Course webpages
 

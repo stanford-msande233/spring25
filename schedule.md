@@ -136,12 +136,15 @@ Further Readings:
 
 *** { @unit = "25th Apr", @title = "Lecture 8: Learning in General Games", @reading, @lecture, @foldout}
 
-Reduction from no-regret to no-swap regret. Multi-agent RL. Algorithms and applications.
+Learning algorithms for correlated equilibria. Reduction from no-regret to no-swap regret.
+
+Presentation: [Lecture 8](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture8.pdf)
 
 Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture06.pdf)
 
 Further Readings:
+- [Example of Correlated equilibria in recent multi-agent RL research](https://proceedings.mlr.press/v139/marris21a/marris21a.pdf)
 - [Noah Golowich, Lecture Notes on Stochastic Games, Part I](https://www.mit.edu/~gfarina/6S890/lecture11.pdf)
 - [Grandmaster Level AI Agent for Starcraft](https://www.nature.com/articles/s41586-019-1724-z)
 

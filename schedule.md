@@ -118,7 +118,7 @@ Further Reading
 Further Videos:
 - [Noam Brown, Deep Learning and Search for Imperfect Information Games](https://www.youtube.com/watch?v=mCldyXOYNok)
 
-*** { @unit = "23rd Apr", @title = "Homework 3 (due 30th Apr)", @assignment}
+*** { @unit = "23rd Apr", @title = "Homework 3 (due 1st May)", @assignment}
 
 Due: April 30th
 
@@ -148,7 +148,7 @@ Further Readings:
 - [Noah Golowich, Lecture Notes on Stochastic Games, Part I](https://www.mit.edu/~gfarina/6S890/lecture11.pdf)
 - [Grandmaster Level AI Agent for Starcraft](https://www.nature.com/articles/s41586-019-1724-z)
 
-*** { @unit = "30th Apr", @title = "Homework 4 (due 7th May)", @assignment}
+*** { @unit = "1st May", @title = "Homework 4 (due 8th May)", @assignment}
 
 Due: May 7th
 
@@ -160,19 +160,19 @@ Basics (truthfulness, Vickrey auction) and applications (GSP, GFP, VCG etc). Spo
 
 *** { @unit = "2nd May", @title = "Lecture 10: Learning in auctions", @reading, @lecture, @foldout}
 
-*** { @unit = "7th May", @title = "Homework 5 (due 14th May)", @assignment}
+*** { @unit = "8th May", @title = "Homework 5 (due 15th May)", @assignment}
 
 *** { @unit = "7th May", @title = "Lecture 11: Mechanism design", @reading, @lecture, @foldout}
 
 *** { @unit = "9th May", @title = "Lecture 12: Simple vs optimal mechanisms", @reading, @lecture, @foldout}
 
-*** { @unit = "14th May", @title = "Homework 6 (due 21st May)", @assignment}
+*** { @unit = "15th May", @title = "Homework 6 (due 22nd May)", @assignment}
 
 *** { @unit = "14th May", @title = "Lecture 13: Learning mechanisms from samples", @reading, @lecture, @foldout}
 
 *** { @unit = "16th May", @title = "Lecture 14: Online optimization of mechanisms", @reading, @lecture, @foldout}
 
-*** { @unit = "21st May", @title = "Homework 7 (due 28th May)", @assignment}
+*** { @unit = "22nd May", @title = "Homework 7 (due 29th May)", @assignment}
 
 ** Further Topics
 
@@ -180,7 +180,7 @@ Basics (truthfulness, Vickrey auction) and applications (GSP, GFP, VCG etc). Spo
 
 *** { @unit = "23rd May", @title = "Lecture 16: A/B testing in markets", @reading, @lecture, @foldout}
 
-*** { @unit = "28th May", @title = "Homework 8 (due 5th Jun)", @assignment}
+*** { @unit = "29th May", @title = "Homework 8 (due 5th Jun)", @assignment}
 
 ** Guest Lectures
 

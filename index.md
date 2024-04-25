@@ -30,7 +30,7 @@ instructor:
    title: CA, MS&E PhD student
    email: vck@stanford.edu
    website_url: 
-   office_hours_times: Monday 12.45pm - 2.45pm
+   office_hours_times: Mon, Wed 1.45pm - 2.45pm
    office_hours_location: Huang Basement 
    office_hours_app_url:  
    github_url: 

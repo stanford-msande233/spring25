@@ -144,6 +144,7 @@ Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture06.pdf)
 
 Further Readings:
+- [From Internal to External Regret, Blum and Mansour](https://www.jmlr.org/papers/volume8/blum07a/blum07a.pdf)
 - [Example of Correlated equilibria in recent multi-agent RL research](https://proceedings.mlr.press/v139/marris21a/marris21a.pdf)
 - [Noah Golowich, Lecture Notes on Stochastic Games, Part I](https://www.mit.edu/~gfarina/6S890/lecture11.pdf)
 - [Grandmaster Level AI Agent for Starcraft](https://www.nature.com/articles/s41586-019-1724-z)

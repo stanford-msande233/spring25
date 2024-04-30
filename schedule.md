@@ -157,7 +157,13 @@ Due: May 7th
 
 *** { @unit = "30th Apr", @title = "Lecture 9: Auctions and mechanisms", @reading, @lecture, @foldout}
 
-Basics (truthfulness, Vickrey auction) and applications (GSP, GFP, VCG etc). Sponsored search. Procurement auctions (oil lease, government procurement, energy grid). Budgets.
+Basics (Bayes-Nash equilibrium, truthfulness, First-Price auction, Vickrey auction) and applications (GSP, GFP etc). Sponsored search.
+
+Presentation: [Lecture 9](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture9.pdf)
+
+Readings:
+- [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/Lecture_8__Mechanism_Design.pdf)
+
 
 *** { @unit = "2nd May", @title = "Lecture 10: Learning in auctions", @reading, @lecture, @foldout}
 

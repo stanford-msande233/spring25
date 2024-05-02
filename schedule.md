@@ -165,7 +165,16 @@ Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/Lecture_8__Mechanism_Design.pdf)
 
 
-*** { @unit = "2nd May", @title = "Lecture 10: Learning in auctions", @reading, @lecture, @foldout}
+*** { @unit = "2nd May", @title = "Lecture 10: Basics continued (VCG). Learning in auctions", @reading, @lecture, @foldout}
+
+Presentation: [Lecture 10](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture10.pdf)
+
+Readings:
+- [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/Lecture_9.pdf)
+
+Further Readings:
+- [Shai-Shalev Schwarz, OCO, Chapters 4.2 and 2.7-2.8](https://www.cs.huji.ac.il/~shais/papers/OLsurvey.pdf)
+
 
 *** { @unit = "8th May", @title = "Homework 5 (due 15th May)", @assignment}
 

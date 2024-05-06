@@ -184,9 +184,9 @@ Further Readings:
 
 *** { @unit = "15th May", @title = "Homework 6 (due 22nd May)", @assignment}
 
-*** { @unit = "14th May", @title = "Lecture 13: Learning mechanisms from samples", @reading, @lecture, @foldout}
+*** { @unit = "14th May", @title = "Lecture 13: Learning mechanisms from data", @reading, @lecture, @foldout}
 
-*** { @unit = "16th May", @title = "Lecture 14: Online optimization of mechanisms", @reading, @lecture, @foldout}
+*** { @unit = "16th May", @title = "Lecture 14: Learning mechanisms from data", @reading, @lecture, @foldout}
 
 *** { @unit = "22nd May", @title = "Homework 7 (due 29th May)", @assignment}
 

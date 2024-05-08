@@ -182,6 +182,9 @@ Further Readings:
 
 Presentation: [Lecture 11](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture11.pdf)
 
+Readings:
+- [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/Lecture10.pdf)
+
 *** { @unit = "9th May", @title = "Lecture 12: Simple vs optimal mechanisms", @reading, @lecture, @foldout}
 
 *** { @unit = "15th May", @title = "Homework 6 (due 22nd May)", @assignment}

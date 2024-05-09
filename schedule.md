@@ -187,6 +187,13 @@ Readings:
 
 *** { @unit = "9th May", @title = "Lecture 12: Simple vs optimal mechanisms", @reading, @lecture, @foldout}
 
+Presentation: [Lecture 12](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture12.pdf)
+
+Readings:
+- [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/Lecture10.pdf)
+- [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/Lecture11.pdf)
+- [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/6_853_Lecture_12___Simple_vs__Optimal_Auctions.pdf)
+
 *** { @unit = "15th May", @title = "Homework 6 (due 22nd May)", @assignment}
 
 *** { @unit = "14th May", @title = "Lecture 13: Learning mechanisms from data", @reading, @lecture, @foldout}

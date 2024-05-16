@@ -206,6 +206,12 @@ Readings:
 
 *** { @unit = "16th May", @title = "Lecture 14: Learning mechanisms from data", @reading, @lecture, @foldout}
 
+Presentation: [Lecture 13](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture13.pdf)
+
+Readings:
+- [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture16.pdf)
+- [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture17.pdf)
+
 *** { @unit = "22nd May", @title = "Homework 7 (due 29th May)", @assignment}
 
 ** Further Topics

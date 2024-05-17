@@ -196,7 +196,7 @@ Readings:
 
 *** { @unit = "15th May", @title = "Homework 6 (due 22nd May)", @assignment}
 
-*** { @unit = "14th May", @title = "Lecture 13: Learning mechanisms from data", @reading, @lecture, @foldout}
+*** { @unit = "14th May", @title = "Lecture 13: Statistical Learning Theory and Pricing from Samples", @reading, @lecture, @foldout}
 
 Presentation: [Lecture 13](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture13.pdf)
 
@@ -204,7 +204,7 @@ Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/Lecture%2014-%20Learning_from_Samples.pdf)
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture16.pdf)
 
-*** { @unit = "16th May", @title = "Lecture 14: Learning mechanisms from data", @reading, @lecture, @foldout}
+*** { @unit = "16th May", @title = "Lecture 14: Statistical Learning Theory and Learning Mechanisms from Data", @reading, @lecture, @foldout}
 
 Presentation: [Lecture 14](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture14.pdf)
 

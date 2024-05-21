@@ -218,6 +218,11 @@ Readings:
 
 *** { @unit = "21st May", @title = "Lecture 15: Econometrics in games and auctions", @reading, @lecture, @foldout}
 
+Presentation: [Lecture 15](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture15.pdf)
+
+Readings:
+- [Lecture Notes](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/lecture_notes_gpv.pdf)
+
 *** { @unit = "23rd May", @title = "Lecture 16: A/B testing in markets", @reading, @lecture, @foldout}
 
 *** { @unit = "29th May", @title = "Homework 8 (due 5th Jun)", @assignment}

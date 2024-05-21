@@ -221,7 +221,8 @@ Readings:
 Presentation: [Lecture 15](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture15.pdf)
 
 Readings:
-- [Lecture Notes](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/lecture_notes_gpv.pdf)
+- [Lecture Notes on Estimation of CDFs](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/lecture_notes_dkw.pdf)
+- [Lecture Notes on Estimation from First Price Auctions](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/lecture_notes_gpv.pdf)
 
 *** { @unit = "23rd May", @title = "Lecture 16: A/B testing in markets", @reading, @lecture, @foldout}
 

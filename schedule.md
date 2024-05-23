@@ -226,6 +226,14 @@ Readings:
 
 *** { @unit = "23rd May", @title = "Lecture 16: A/B testing in markets", @reading, @lecture, @foldout}
 
+Presentation: [Lecture 16](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture16.pdf)
+
+Readings:
+- [Lecture Notes on A/B Testing in Auctions](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/A_B_Testing_in_Auctions.pdf)
+- [A/B Testing of Auctions, Chawla, Hartline, Nekipelov](https://arxiv.org/abs/1606.00908)
+- [A/B Testing in Auctions with Budgets from Meta](https://arxiv.org/pdf/2402.07322)
+- [A/B Testing in Two-Sided Markets](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2021.4247)
+
 *** { @unit = "29th May", @title = "Homework 8 (due 5th Jun)", @assignment}
 
 ** Guest Lectures

@@ -242,7 +242,10 @@ Readings:
 
 *** { @unit = "30th May", @title = "Autobidding and Sponsored Search (Kshipra Bhawalkar; Google)", @reading, @lecture, @foldout}
 
-*** { @unit = "4th Jun", @title = "Lecture 17: A/B testing in markets + Q/A", @reading, @lecture, @foldout}
+*** { @unit = "4th Jun", @title = "Lecture 17: A/B testing in markets + Recap + Q/A", @reading, @lecture, @foldout}
+
+Presentation: [Lecture 17](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture17.pdf)
+A/B Testing in Two-Sided Markets: [Colab Notebook](https://colab.research.google.com/drive/198fDKTPcXZm15cPwORoeYvDRrLfLHl9b?usp=sharing)
 
 Readings:
 - [A/B Testing in Auctions with Budgets from Meta](https://arxiv.org/pdf/2402.07322)

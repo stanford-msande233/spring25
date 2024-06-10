@@ -178,7 +178,7 @@ Further Readings:
 
 *** { @unit = "8th May", @title = "Homework 5 (due 15th May)", @assignment}
 
-*** { @unit = "7th May", @title = "Lecture 11: Mechanism design", @reading, @lecture, @foldout}
+*** { @unit = "7th May", @title = "Lecture 11: Optimal mechanism design", @reading, @lecture, @foldout}
 
 Presentation: [Lecture 11](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture11.pdf)
 

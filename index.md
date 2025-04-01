@@ -48,6 +48,17 @@ instructor:
    twitter_url: 
    scholar_url: 
    linked_in_url:
+-  name: Ivan-Aleksandar Mavrov
+   title: CA, MS&E PhD student
+   email: imavrov@stanford.edu
+   website_url: 
+   office_hours_times: TBD
+   office_hours_location: TBD
+   office_hours_app_link:
+   github_url: 
+   twitter_url: 
+   scholar_url: 
+   linked_in_url:
 
 textbooks:
 - title: Lecture Notes on Algorithmic Game Theory

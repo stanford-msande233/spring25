@@ -27,7 +27,7 @@ Unit Metadata is comprised of:
 
 Introduction and logistics. Basics of game theory, equilibria, zero-sum games, Minimax theorem.
 
-Presentation: [Lecture 1](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture1.pdf)
+Presentation: [Lecture 1](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture1.pdf)
 
 Readings:
 - [Chapters 1-2 of AI, Games and Markets](https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf)
@@ -37,7 +37,7 @@ Readings:
 
 Basics of online learning algorithms and theoretical foundations.
 
-Presentation: [Lecture 2](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture2.pdf)
+Presentation: [Lecture 2](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture2.pdf)
 
 Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture3.pdf)
@@ -48,7 +48,7 @@ Further Reading
 
 *** {@unit = "4th Apr", @title = "Python Tutorial", @lecture, @foldout}
 
-Presentation [Python Tutorial](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/PythonTutorial.pdf)
+Presentation [Python Tutorial](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/PythonTutorial.pdf)
 
 *** { @unit = "8th Apr", @title = "Homework 1 (due 15th Apr)", @assignment}
 
@@ -57,7 +57,7 @@ Presentation [Python Tutorial](https://raw.githubusercontent.com/stanford-msande
 
 Solving zero-sum games using no-regret dynamics. 
 
-Presentation: [Lecture 3](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture3.pdf)
+Presentation: [Lecture 3](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture3.pdf)
 
 Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture4.pdf)
@@ -67,7 +67,7 @@ Readings:
 
 Applications of zero-sum games in machine learning and AI: boosting, adversarial robustness, distributional robustness, fairness, GANs, Imitation learning, Reinforcement learning from human feedback, NPIV (causal machine learning).
 
-Presentation: [Lecture 4](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture4.pdf)
+Presentation: [Lecture 4](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture4.pdf)
 
 Readings:
 - [Game Theory, Online Prediction and Boosting](https://www.cs.cmu.edu/~ninamf/LGO10/wm-minimax.pdf)
@@ -87,7 +87,7 @@ Due: April 22nd
 
 Extensive form games of complete and incomplete information.
 
-Presentation: [Lecture 5](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture5.pdf)
+Presentation: [Lecture 5](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture5.pdf)
 
 Readings:
 - [Chapter 8-9, AI, Games and Markets](https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf)
@@ -103,7 +103,7 @@ Further Reading:
 
 *** { @unit = "17th Apr", @title = "Lecture 6: No-regret learning for extensive form games", @reading, @lecture, @foldout}
 
-Presentation: [Lecture 6](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture6.pdf)
+Presentation: [Lecture 6](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture6.pdf)
 
 Readings:
 - [Chapter 8-9, AI, Games and Markets](https://www.columbia.edu/~ck2945/files/main_ai_games_markets.pdf)
@@ -126,7 +126,7 @@ Due: April 29th
 
 No-regret learning in general games and coarse correlated equilibria. No-swap regret and correlated equilibria. 
 
-Presentation: [Lecture 7](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture7.pdf)
+Presentation: [Lecture 7](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture7.pdf)
 
 Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture06.pdf)
@@ -138,7 +138,7 @@ Further Readings:
 
 Learning algorithms for correlated equilibria. Reduction from no-regret to no-swap regret.
 
-Presentation: [Lecture 8](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture8.pdf)
+Presentation: [Lecture 8](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture8.pdf)
 
 Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture06.pdf)
@@ -159,7 +159,7 @@ Due: May 7th
 
 Basics (Bayes-Nash equilibrium, truthfulness, First-Price auction, Vickrey auction) and applications (GSP, GFP etc). Sponsored search.
 
-Presentation: [Lecture 9](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture9.pdf)
+Presentation: [Lecture 9](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture9.pdf)
 
 Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/Lecture_8__Mechanism_Design.pdf)
@@ -167,7 +167,7 @@ Readings:
 
 *** { @unit = "1st May", @title = "Lecture 10: Basics continued (VCG). Learning in auctions", @reading, @lecture, @foldout}
 
-Presentation: [Lecture 10](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture10.pdf)
+Presentation: [Lecture 10](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture10.pdf)
 
 Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/Lecture_9.pdf)
@@ -180,14 +180,14 @@ Further Readings:
 
 *** { @unit = "6th May", @title = "Lecture 11: Optimal mechanism design", @reading, @lecture, @foldout}
 
-Presentation: [Lecture 11](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture11.pdf)
+Presentation: [Lecture 11](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture11.pdf)
 
 Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/Lecture10.pdf)
 
 *** { @unit = "8th May", @title = "Lecture 12: Simple vs optimal mechanisms", @reading, @lecture, @foldout}
 
-Presentation: [Lecture 12](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture12.pdf)
+Presentation: [Lecture 12](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture12.pdf)
 
 Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/Lecture10.pdf)
@@ -198,7 +198,7 @@ Readings:
 
 *** { @unit = "13th May", @title = "Lecture 13: Statistical Learning Theory and Pricing from Samples", @reading, @lecture, @foldout}
 
-Presentation: [Lecture 13](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture13.pdf)
+Presentation: [Lecture 13](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture13.pdf)
 
 Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/Lecture%2014-%20Learning_from_Samples.pdf)
@@ -206,7 +206,7 @@ Readings:
 
 *** { @unit = "15th May", @title = "Lecture 14: Statistical Learning Theory and Learning Mechanisms from Data", @reading, @lecture, @foldout}
 
-Presentation: [Lecture 14](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture14.pdf)
+Presentation: [Lecture 14](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture14.pdf)
 
 Readings:
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture16.pdf)
@@ -218,18 +218,18 @@ Readings:
 
 *** { @unit = "20th May", @title = "Lecture 15: Econometrics in games and auctions", @reading, @lecture, @foldout}
 
-Presentation: [Lecture 15](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture15.pdf)
+Presentation: [Lecture 15](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture15.pdf)
 
 Readings:
-- [Lecture Notes on Estimation of CDFs](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/lecture_notes_dkw.pdf)
-- [Lecture Notes on Estimation from First Price Auctions](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/lecture_notes_gpv.pdf)
+- [Lecture Notes on Estimation of CDFs](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/lecture_notes_dkw.pdf)
+- [Lecture Notes on Estimation from First Price Auctions](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/lecture_notes_gpv.pdf)
 
 *** { @unit = "22nd May", @title = "Lecture 16: A/B testing in markets", @reading, @lecture, @foldout}
 
-Presentation: [Lecture 16](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture16.pdf)
+Presentation: [Lecture 16](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture16.pdf)
 
 Readings:
-- [Lecture Notes on A/B Testing in Auctions](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/A_B_Testing_in_Auctions.pdf)
+- [Lecture Notes on A/B Testing in Auctions](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/A_B_Testing_in_Auctions.pdf)
 - [A/B Testing of Auctions, Chawla, Hartline, Nekipelov](https://arxiv.org/abs/1606.00908)
 - [A/B Testing in Auctions with Budgets from Meta](https://arxiv.org/pdf/2402.07322)
 - [A/B Testing in Two-Sided Markets](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2021.4247)
@@ -244,7 +244,7 @@ Readings:
 
 *** { @unit = "3rd Jun", @title = "Lecture 17: A/B testing in markets + Recap + Q/A", @reading, @lecture, @foldout}
 
-Presentation: [Lecture 17](https://raw.githubusercontent.com/stanford-msande233/spring24/master/assets/presentations/Lecture17.pdf)
+Presentation: [Lecture 17](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture17.pdf)
 A/B Testing in Two-Sided Markets: [Colab Notebook](https://colab.research.google.com/drive/198fDKTPcXZm15cPwORoeYvDRrLfLHl9b?usp=sharing)
 
 Readings:

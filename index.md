@@ -9,7 +9,7 @@ info:
  course_number: 
  course_level:
  course_website: 
- course_start_end_dates: April 1st - June 5th, 2024
+ course_start_end_dates: April 1st - June 5th, 2025
  course_prerequisites: None
  class_meets_when:  Tue-Thu 3.00-4.20
  class_meets_where: Shriram 104
@@ -30,20 +30,20 @@ instructor:
    title: CA, MS&E PhD student
    email: vck@stanford.edu
    website_url: 
-   office_hours_times: Mon, Wed 1.45pm - 2.45pm
-   office_hours_location: Huang Basement 
+   office_hours_times: TBD
+   office_hours_location: TBD
    office_hours_app_url:  
    github_url: 
    twitter_url: 
    scholar_url: 
    linked_in_url:
--  name: Gordon Martinez-Piedra
-   title: CA, EE MS student
-   email: martigp@stanford.edu
+-  name: Ayush Sawarni
+   title: CA, MS&E PhD student
+   email: ayushsaw@stanford.edu
    website_url: 
-   office_hours_times: Tuesday 12.45pm - 2.45pm
-   office_hours_location: Huang Basement (Hybrid)
-   office_hours_app_link:  https://stanford.zoom.us/meeting/tJ0odO2hqj0iHtblbL5Dtia8Rv7zupy3_53y/ics?icsToken=98tyKuChqzguE9CTuB2FRox5GYjCLPPwiCFHgrdfkB3JVgRHawKuBPQVKKdvCYvv
+   office_hours_times: TBD
+   office_hours_location: TBD
+   office_hours_app_link:
    github_url: 
    twitter_url: 
    scholar_url: 
@@ -84,8 +84,8 @@ The course will consist of lectures and homework assignments. Lectures will be h
  
 ## Grading
 
-* Homework 100%
-* Bonus: extra 10% of your homework points for class participation (participation in at least 90% of in class polls)
+* Homework: 95%
+* Participation: 5% class participation (participation in at least 50% of in class polls)
 
 ## Course webpages
 

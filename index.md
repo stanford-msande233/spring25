@@ -30,8 +30,8 @@ instructor:
    title: CA, MS&E PhD student
    email: vck@stanford.edu
    website_url: 
-   office_hours_times: TBD
-   office_hours_location: TBD
+   office_hours_times: Monday 3:30pm - 5:00pm
+   office_hours_location: Huang B020
    office_hours_app_url:  
    github_url: 
    twitter_url: 
@@ -41,7 +41,7 @@ instructor:
    title: CA, MS&E PhD student
    email: ayushsaw@stanford.edu
    website_url: 
-   office_hours_times: TBD
+   office_hours_times: Tuesday 11:00am - 12:00pm
    office_hours_location: TBD
    office_hours_app_link:
    github_url: 
@@ -52,7 +52,7 @@ instructor:
    title: CA, MS&E PhD student
    email: imavrov@stanford.edu
    website_url: 
-   office_hours_times: TBD
+   office_hours_times: Wednesday 1:00pm - 2:30pm
    office_hours_location: TBD
    office_hours_app_link:
    github_url: 

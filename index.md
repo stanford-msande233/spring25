@@ -109,12 +109,7 @@ The course will consist of lectures and homework assignments. Lectures will be h
 
 There will be a total of 7 or 8 problem sets. Problem sets must be submitted online through Gradescope [gradescope](https://www.gradescope.com/courses/486969/). 
 
-Depending on their length, the total number of points in each set might vary. Each part of each problem will be graded as follows:
-* You will receive zero points if you do not "substantially" attempt to solve the question.
-* If you substantially attempt it, but there are either substantial methodological errors or major conceptual misunderstandings of the material, you will receive 2 points.
-* If you attempt it and there are no substantial methodological errors or major conceptual misunderstandings of the material, you will receive 3 points.
-
-We expect students who make a reasonable effort, even if not perfect, will receive 3 points. Receiving 2 points is intended to be a sign of significant comprehension issues and should only happen in cases where you haven’t been able to keep up with the material.  Since you can get full credit without having been perfect, you should make sure to read the solutions to aid your comprehension of the material.
+Depending on their length, the total number of points in each set might vary. Typically, the assignments will divided into sub-questions with an explicit set of points assigned to each question. You will receive the credits corresponding to each sub-question only if you get the sub-question correct.
 
 We encourage discussion of assignments with other classmates, but everybody must turn in their own written solutions in their own words. If you do a substantial subset of the work on your problem set with others, you must document on each assignment the other students that you worked with.  You may work in pairs on coding portions of the assignments, but again, please make sure to clarify in your submission who you collaborated with; if you turn in the same code as someone else, without noting the collaboration, it will be considered an Honor Code violation.  (See also the section on the Honor Code below.)
 

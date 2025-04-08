@@ -42,7 +42,7 @@ instructor:
    email: ayushsaw@stanford.edu
    website_url: 
    office_hours_times: Tuesday 11:00am - 12:00pm
-   office_hours_location: TBD
+   office_hours_location: Huang B019
    office_hours_app_link:
    github_url: 
    twitter_url: 
@@ -53,7 +53,7 @@ instructor:
    email: imavrov@stanford.edu
    website_url: 
    office_hours_times: Wednesday 1:00pm - 2:30pm
-   office_hours_location: TBD
+   office_hours_location: 160-325
    office_hours_app_link:
    github_url: 
    twitter_url: 

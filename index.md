@@ -41,7 +41,7 @@ instructor:
    title: CA, MS&E PhD student
    email: ayushsaw@stanford.edu
    website_url: 
-   office_hours_times: Tuesday 11:00am - 12:00pm
+   office_hours_times: Tuesday 11:00am - 12:30pm
    office_hours_location: Huang B019
    office_hours_app_link:
    github_url: 

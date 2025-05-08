@@ -183,15 +183,15 @@ Further Readings:
 Presentation: [Lecture 11](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture11.pdf)
 
 Readings:
-- [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/Lecture10.pdf)
+- [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture10.pdf)
 
 *** { @unit = "8th May", @title = "Lecture 12: Simple vs optimal mechanisms", @reading, @lecture, @foldout}
 
 Presentation: [Lecture 12](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture12.pdf)
 
 Readings:
-- [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/Lecture10.pdf)
-- [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/Lecture11.pdf)
+- [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture10.pdf)
+- [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/lecture11.pdf)
 - [Lecture Notes](https://www.vsyrgkanis.com/6853sp19/6_853_Lecture_12___Simple_vs__Optimal_Auctions.pdf)
 
 *** { @unit = "14th May", @title = "Homework 6 (due 21st May)", @assignment}

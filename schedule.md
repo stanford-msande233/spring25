@@ -242,13 +242,8 @@ Readings:
 
 *** { @unit = "29th May", @title = "Guest Lecture: TBD", @reading, @lecture, @foldout}
 
-*** { @unit = "3rd Jun", @title = "Lecture 17: A/B testing in markets + Recap + Q/A", @reading, @lecture, @foldout}
+*** { @unit = "3rd Jun", @title = "Lecture 17: Recap + Q/A", @reading, @lecture, @foldout}
 
 Presentation: [Lecture 17](https://raw.githubusercontent.com/stanford-msande233/spring25/master/assets/presentations/Lecture17.pdf)
-A/B Testing in Two-Sided Markets: [Colab Notebook](https://colab.research.google.com/drive/198fDKTPcXZm15cPwORoeYvDRrLfLHl9b?usp=sharing)
-
-Readings:
-- [A/B Testing in Auctions with Budgets from Meta](https://arxiv.org/pdf/2402.07322)
-- [A/B Testing in Two-Sided Markets](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2021.4247)
 
 
